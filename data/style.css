@@ -1,4 +1,18 @@
 /* # is for ids btw */
+#twitbutton{
+  text-align: center;
+  font-size:25px ;
+  text-decoration: none;
+  position: relative;
+  top: 210px;
+}
+#twit{
+  text-align: center;
+  font-size:25px ;
+  text-decoration: none;
+  position: relative;
+  top: 200px;
+}
 #headline {
 text-align: center;
 font-size:25px ;
