@@ -2,6 +2,13 @@
 body{
   /*REMINDER ONLY THINGS THAT I WANT TO CHANGE FOR THE WHOLE PAGE GO HERE*/
 }
+#aviyo{ /*yes*/
+  text-align: center;
+  font-size:25px ;
+  text-decoration: none;
+  position: relative;
+  top: 110px;
+}
 #netflixpls{
   text-align: center;
   font-size:25px ;
